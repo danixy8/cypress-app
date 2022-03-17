@@ -1,1 +1,8 @@
-{}
+{
+  "env": {
+      "org": "PE20514968099",
+      "rut": "PE20514968099",
+      "password": "admin",
+      "baseUrl": "http://localhost:4200/#/"
+  }
+}
